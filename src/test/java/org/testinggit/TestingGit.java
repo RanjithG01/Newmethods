@@ -32,5 +32,14 @@ public class TestingGit {
 
 		System.out.println("camro");
 	}
+	
+	private void porsche() {
+        System.out.println("carrera gt");
+	}
+	
+	private void benz() {
+        System.out.println("m-class");
+	}
+	
 
 }
